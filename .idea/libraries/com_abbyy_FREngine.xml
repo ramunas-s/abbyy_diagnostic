@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.abbyy.FREngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/abbyy_diagnostic/src/com.abbyy.FREngine.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/abbyy_diagnostic/src/com.abbyy.FREngine.jar!/doc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
